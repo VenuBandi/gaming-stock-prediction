@@ -5,6 +5,8 @@
 Apache Spark GBT pipeline predicting next-day close prices for 22 gaming stocks.<br>
 **334,405 rows · Test R² = 0.9629 · RMSE = 10.08 · Gradio dashboard + MongoDB**
 
+[![GitHub stars](https://img.shields.io/github/stars/VenuBandi/gaming-stock-prediction?style=for-the-badge&color=yellow)](https://github.com/VenuBandi/gaming-stock-prediction/stargazers)
+
 [![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -121,3 +123,11 @@ Requires a running Spark session and local stock CSV data. See notebook for data
 ## License
 
 MIT
+
+---
+
+<div align="center">
+
+If this project was useful or interesting, a ⭐ helps others find it.
+
+</div>
