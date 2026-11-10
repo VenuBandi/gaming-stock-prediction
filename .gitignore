@@ -1,0 +1,26 @@
+# Raw and cleaned stock data (download separately)
+data/
+*.csv
+expanded_csvs/
+cleaned_csvs/
+
+# Spark output
+spark-warehouse/
+derby.log
+metastore_db/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Allow prediction charts
+!reports/charts/*.png
+
+# OS
+.DS_Store

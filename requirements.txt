@@ -1,0 +1,9 @@
+pyspark>=3.5
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+yfinance>=0.2
+pymongo>=4.6
+gradio>=4.0
+plotly>=5.18
+jupyterlab>=4.0
