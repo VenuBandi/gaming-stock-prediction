@@ -98,6 +98,13 @@ Predictions cover the full history of all 22 tickers. Each chart below shows the
 
 **5. Serve** — 334,405 predictions stored in MongoDB; Gradio dashboard for live exploration.
 
+## Notebooks
+
+| Notebook | Description |
+|:--|:--|
+| `notebooks/00_data_inspection.ipynb` | PySpark EDA — loading 22 CSVs, schema inspection, null checks, data cleaning |
+| `notebooks/Gaming_Stock_Prediction_Spark.ipynb` | Full GBT pipeline — feature engineering, training, evaluation, MongoDB + Gradio |
+
 ## Quick Start
 
 ```bash
